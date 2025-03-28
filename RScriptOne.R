@@ -1,0 +1,14 @@
+x=9
+y=11
+z=x*y
+print(z)
+m=7
+n=20
+Result=m-n
+print(Result)
+variable2<-c(12,1,15,3,20,6,11)
+variable2
+mean(variable2)
+variable2+2
+Color<-c(green,red,blue)
+color<-c("green","red")
